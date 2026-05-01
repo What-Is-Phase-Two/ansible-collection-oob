@@ -1,0 +1,10 @@
+# Copy to integration_config.yml and fill in values before running integration tests.
+# Never commit integration_config.yml (it is gitignored).
+slc9_host: "192.168.100.75"
+slc9_username: "sysadmin"
+slc9_password: ""
+
+percepxion_host: "api.gopercepxion.ai"
+percepxion_username: ""
+percepxion_password: ""
+percepxion_project_tag: ""
